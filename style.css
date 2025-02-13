@@ -28,12 +28,12 @@
 /* :root[data-tema="light"] { */
 :root {
   --strongColor: black;
-  --gradiente: radial-gradient(ellipse at 50% 50%,
+  --gradiente: radial-gradient(ellipse at 50% 20%,
       pink 0,
       transparent 55%),
     radial-gradient(ellipse at 50% 50%,
       #bf90f5 0,
-      transparent 75%);
+      transparent 60%);
   --dimmedFontColor: #666;
   --hoverBackground: #ccc;
   --navLinkHoverBack: gray;
@@ -81,13 +81,14 @@ body {
   /*
   border-radius: var(--borderRadius);
   */
-  margin-top: 2ch;
+  padding-top: 2ch;
   align-items: center;
   margin: 2ch calc(25% - 130px);
+  margin-top: 0px;
   /* quero ver mais elegante */
 }
 
-p {}
+/* p {} */
 
 strong {
   color: var(--strongColor);
@@ -1202,7 +1203,7 @@ table>tfoot:not(:last-child) {
   border-bottom: var(--stdBorder);
 }
 
-tbody tr {}
+/* tbody tr {} */
 
 tr td {
   border-bottom: var(--stdBorder);
@@ -1433,6 +1434,7 @@ hr {
   body {
     font-size: 95%;
     margin: 2ch calc(15% - 50px);
+    margin-top: 0px;
   }
 
   .scalidraw svg {
@@ -1448,6 +1450,7 @@ hr {
   body {
     font-size: 90%;
     margin: 1ch 0px;
+    margin-top: 0px;
   }
 
   article,

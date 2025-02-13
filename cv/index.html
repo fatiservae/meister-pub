@@ -20,7 +20,65 @@
   <link rel="icon" href="../me.jpg">
   <meta name="description" content="Médica pediatra pela UFPEL-RS;
 Nútrologa;
-Esteticista">
+Esteticista
+
+ 
+
+  
+    Anterior
+    Próxima
+  
+  
+  
+    
+    
+    
+       
+      
+        
+          
+        
+      
+    
+
+    
+    
+    
+       
+      
+        
+          
+        
+      
+    
+
+    
+    
+    
+       
+      
+        
+          
+        
+      
+    
+
+    
+    
+    
+       
+      
+        
+          
+        
+      
+    
+
+
+  
+  
+
+">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="index, follow">
   <meta charset="utf-8">
@@ -70,14 +128,114 @@ Esteticista">
 Nútrologa;
 Esteticista</p>
 
+ 
+<div class="carousel">
+  <div class="button-container">
+    <button type="button" id="anterior">Anterior</button>
+    <button type="button" id="proximo">Próxima</button>
+  </div>
+  <div class="conteudo">
+  
+    
+    
+    
+      <div class="legend"><p> </p></div>
+      <div class="slide">
+        <a href="../pix/cv/medicina.jpg">
+          <img src="../pix/cv/medicina.jpg"></img>
+        </a>
+      </div>
+    
+
+    
+    
+    
+      <div class="legend"><p> </p></div>
+      <div class="slide">
+        <a href="../pix/cv/pediatria.jpg">
+          <img src="../pix/cv/pediatria.jpg"></img>
+        </a>
+      </div>
+    
+
+    
+    
+    
+      <div class="legend"><p> </p></div>
+      <div class="slide">
+        <a href="../pix/cv/nutrologia.jpg">
+          <img src="../pix/cv/nutrologia.jpg"></img>
+        </a>
+      </div>
+    
+
+    
+    
+    
+      <div class="legend"><p> </p></div>
+      <div class="slide">
+        <a href="../pix/cv/estetica.jpg">
+          <img src="../pix/cv/estetica.jpg"></img>
+        </a>
+      </div>
+    
+
+
+  
+  </div>
+</div>
+<script>
+(function() {
+  let currentSlide = 0;
+  let slides = document.querySelectorAll(".carousel .slide");
+  let legends = document.querySelectorAll(".carousel .legend");
+  let totalSlides = slides.length;
+  let anterior = document.getElementById("anterior");
+  let proximo = document.getElementById("proximo");
+
+  function showSlide(n) {
+    currentSlide = (n + totalSlides) % totalSlides;
+    for (let i = 0; i < totalSlides; i++) {
+      slides[i].style.display = "none";
+      legends[i].style.display = "none";
+    }
+    slides[currentSlide].style.display = "block";
+    legends[currentSlide].style.display = "block";
+  }
+  
+  showSlide(currentSlide);
+  
+  
+  
+  
+  proximo.addEventListener("click", () => {
+    showSlide(currentSlide + 1);
+  })
+  anterior.addEventListener("click", () => {
+    showSlide(currentSlide - 1);
+  })
+  
+  
+  
+  
+  
+  
+  
+  
+})();
+  </script>
+
+
+
     
     
     
     
     
     <br>
+    <a href="https://www.meister.med.br/"> Início</a>
+    <br>
     <a href='#' onClick="retornaTopo()"><b><span class="material-icons">vertical_align_top</span></b></a>
-    
     <script>
       function retornaTopo() {
         document.documentElement.scrollTop = 0;

@@ -19,6 +19,105 @@
 		<description>&lt;p&gt;Médica pediatra pela UFPEL-RS;
 Nútrologa;
 Esteticista&lt;/p&gt;
+
+ 
+&lt;div class=&#34;carousel&#34;&gt;
+  &lt;div class=&#34;button-container&#34;&gt;
+    &lt;button type=&#34;button&#34; id=&#34;anterior&#34;&gt;Anterior&lt;/button&gt;
+    &lt;button type=&#34;button&#34; id=&#34;proximo&#34;&gt;Próxima&lt;/button&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;conteudo&#34;&gt;
+  
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;./pix/cv/medicina.jpg&#34;&gt;
+          &lt;img src=&#34;./pix/cv/medicina.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;./pix/cv/pediatria.jpg&#34;&gt;
+          &lt;img src=&#34;./pix/cv/pediatria.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;./pix/cv/nutrologia.jpg&#34;&gt;
+          &lt;img src=&#34;./pix/cv/nutrologia.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;./pix/cv/estetica.jpg&#34;&gt;
+          &lt;img src=&#34;./pix/cv/estetica.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+
+  
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+(function() {
+  let currentSlide = 0;
+  let slides = document.querySelectorAll(&#34;.carousel .slide&#34;);
+  let legends = document.querySelectorAll(&#34;.carousel .legend&#34;);
+  let totalSlides = slides.length;
+  let anterior = document.getElementById(&#34;anterior&#34;);
+  let proximo = document.getElementById(&#34;proximo&#34;);
+
+  function showSlide(n) {
+    currentSlide = (n + totalSlides) % totalSlides;
+    for (let i = 0; i &lt; totalSlides; i++) {
+      slides[i].style.display = &#34;none&#34;;
+      legends[i].style.display = &#34;none&#34;;
+    }
+    slides[currentSlide].style.display = &#34;block&#34;;
+    legends[currentSlide].style.display = &#34;block&#34;;
+  }
+  
+  showSlide(currentSlide);
+  
+  
+  
+  
+  proximo.addEventListener(&#34;click&#34;, () =&gt; {
+    showSlide(currentSlide + 1);
+  })
+  anterior.addEventListener(&#34;click&#34;, () =&gt; {
+    showSlide(currentSlide - 1);
+  })
+  
+  
+  
+  
+  
+  
+  
+  
+})();
+  &lt;/script&gt;
+
+
 </description>
 	</item>
 	
