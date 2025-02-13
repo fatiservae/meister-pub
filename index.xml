@@ -1,0 +1,56 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Dra. Vera Meister</title>
+	<link>https://www.meister.med.br/</link>
+	<description>Recent content on Dra. Vera Meister</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Thu, 13 Feb 2025 10:18:51 -0300</lastBuildDate>
+    
+        <atom:link href="https://www.meister.med.br/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Curriculum Vitae</title>
+		<link>https://www.meister.med.br/cv/</link>
+		<pubDate>Thu, 13 Feb 2025 10:36:30 -0300</pubDate>
+		
+		<guid>https://www.meister.med.br/cv/</guid>
+		<description>&lt;p&gt;Médica pediatra pela UFPEL-RS;
+Nútrologa;
+Esteticista&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Nutrologia</title>
+		<link>https://www.meister.med.br/nutrologia/</link>
+		<pubDate>Thu, 13 Feb 2025 10:15:03 -0300</pubDate>
+		
+		<guid>https://www.meister.med.br/nutrologia/</guid>
+		<description>&lt;p&gt;Médica nutróloga formada pela X.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Pediatria</title>
+		<link>https://www.meister.med.br/pediatria/</link>
+		<pubDate>Thu, 13 Feb 2025 10:14:58 -0300</pubDate>
+		
+		<guid>https://www.meister.med.br/pediatria/</guid>
+		<description>&lt;p&gt;Médica pediatra intensivista.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Estética</title>
+		<link>https://www.meister.med.br/estetica/</link>
+		<pubDate>Thu, 13 Feb 2025 10:14:52 -0300</pubDate>
+		
+		<guid>https://www.meister.med.br/estetica/</guid>
+		<description>&lt;p&gt;Médica esteticista.&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
