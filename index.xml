@@ -267,14 +267,21 @@
 		<pubDate>Thu, 13 Feb 2025 10:15:03 -0300</pubDate>
 		
 		<guid>https://www.meister.med.br/nutrologia/</guid>
-		<description>&lt;p&gt;Médica nutróloga com experiência em emagrecimento, readequação dietética, atenção ao diabético e nutrologia da infância.&lt;/p&gt;
+		<description>&lt;style&gt;
+img{
+  max-height: 50vh;
+}
+&lt;/style&gt;
+&lt;p&gt;Médica nutróloga com experiência em emagrecimento, readequação dietética, atenção ao diabético e nutrologia da infância.&lt;/p&gt;
 &lt;h2 id=&#34;consulta-avulsa&#34;&gt;Consulta avulsa&lt;/h2&gt;
+&lt;p&gt;&lt;img src=./pix/consulta.webp&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;Um contato breve mas intenso, de readequação alimentar, prescrição de dietas de longo prazo, orientações e solicitação de exames, com direito a um retorno por WhatsApp.&lt;/p&gt;
 &lt;p&gt;&lt;a href=#&gt;Quero marcar!&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;consulta-periódica&#34;&gt;Consulta periódica&lt;/h2&gt;
 &lt;p&gt;Plano de consultas de semestre e anual, com frequência individualizada e retornos múltiplos. O objetivo é acompanhar de perto o desenvolvimento da orientação alimentar.&lt;/p&gt;
 &lt;p&gt;&lt;a href=#&gt;Quero marcar!&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;nutricoaching&#34;&gt;Nutricoaching&lt;/h2&gt;
+&lt;p&gt;&lt;img src=./pix/nutricoach.webp&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;A &lt;em&gt;nutricoach&lt;/em&gt; te acompanha semanalmente, com retorno presencial, avaliação antropométrica e prescrição de medicações específicas para perda de peso.&lt;/p&gt;
 &lt;p&gt;&lt;a href=#&gt;Quero marcar!&lt;/a&gt;&lt;/p&gt;
 </description>
