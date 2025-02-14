@@ -15,10 +15,7 @@
 		<pubDate>Thu, 13 Feb 2025 10:36:30 -0300</pubDate>
 		
 		<guid>https://www.meister.med.br/cv/</guid>
-		<description>&lt;p&gt;Médica pediatra pela UFPEL-RS;
-Nútrologa;
-Esteticista&lt;/p&gt;
-
+		<description>
  
 &lt;div class=&#34;carousel&#34;&gt;
   &lt;div class=&#34;button-container&#34;&gt;
@@ -30,10 +27,21 @@ Esteticista&lt;/p&gt;
     
     
     
-      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Pediatra pela Universidade Federal de Pelotas&lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;../pix/cv/medicina.jpg&#34;&gt;
-          &lt;img src=&#34;../pix/cv/medicina.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../pix/cv/pediatra.jpeg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/pediatra.jpeg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Médica pela Universidade Federal de Pelotas&lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;../pix/cv/medico.jpeg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/medico.jpeg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -43,8 +51,19 @@ Esteticista&lt;/p&gt;
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;../pix/cv/pediatria.jpg&#34;&gt;
-          &lt;img src=&#34;../pix/cv/pediatria.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../pix/cv/medico-verso.jpeg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/medico-verso.jpeg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Amamentação&lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;../pix/cv/amamentacao-60.jpg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/amamentacao-60.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -53,6 +72,61 @@ Esteticista&lt;/p&gt;
     
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;../pix/cv/amamentacao-verso.jpg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/amamentacao-verso.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Cuidado nutricional na diabetes&lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;../pix/cv/diabetes-80.jpg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/diabetes-80.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;../pix/cv/diabetes-verso-80.jpg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/diabetes-verso-80.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Inclusão da criança com Síndrome de Down&lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;../pix/cv/down-280.jpg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/down-280.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;../pix/cv/down-verso-280.jpg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/down-verso-280.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Nutróloga pela Faculdade Global&lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
         &lt;a href=&#34;../pix/cv/nutrologia.jpg&#34;&gt;
           &lt;img src=&#34;../pix/cv/nutrologia.jpg&#34;&gt;&lt;/img&gt;
@@ -65,8 +139,74 @@ Esteticista&lt;/p&gt;
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;../pix/cv/estetica.jpg&#34;&gt;
-          &lt;img src=&#34;../pix/cv/estetica.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../pix/cv/nutrologia-verso.jpg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/nutrologia-verso.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Obesidade infantil&lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;../pix/cv/obesidade-infantil.jpg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/obesidade-infantil.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;../pix/cv/obesidade-infantil-verso.jpg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/obesidade-infantil-verso.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Sala de vacina&lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;../pix/cv/sala-vacina-280.jpg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/sala-vacina-280.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;../pix/cv/sala-vacina-verso-280.jpg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/sala-vacina-verso-280.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Saúde da criança&lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;../pix/cv/saude-crianca-280.jpg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/saude-crianca-280.jpg&#34;&gt;&lt;/img&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    
+
+    
+    
+    
+      &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&#34;slide&#34;&gt;
+        &lt;a href=&#34;../pix/cv/saude-crianca-verso-280.jpg&#34;&gt;
+          &lt;img src=&#34;../pix/cv/saude-crianca-verso-280.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
