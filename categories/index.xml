@@ -10,6 +10,66 @@
 	
 	
 	<item>
+		<title>Metodologia Científica - tarefa PICOTT</title>
+		<link>https://www.meister.med.br/tarefas/picott/</link>
+		<pubDate>Sat, 15 Mar 2025 14:32:02 -0300</pubDate>
+		
+		<guid>https://www.meister.med.br/tarefas/picott/</guid>
+		<description>&lt;style&gt;
+  article {
+    text-align:start;
+  }
+&lt;/style&gt;
+&lt;p&gt;
+
+
+  &lt;div id=&#34;img-div&#34;&gt;
+    &lt;img class=mediaframe src=&#34;../pix/mestrado/article.png&#34;&gt;
+      &lt;figcaption&gt;&lt;/figcaption&gt;
+    &lt;/img&gt;
+  &lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;o-estudo&#34;&gt;O estudo&lt;/h2&gt;
+&lt;p&gt;Para o estudo referência&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, analiso sua estrutura PICOTT da seguinte maneira:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;População: pacientes de 18 anos ou mais, de 35 centros na Austria e Alemanha, que tiveram COVID-19 sintomática diagnosticada e eram cronicamente tratados com medicações antagonistas do mecanimso de angiotensina.&lt;/li&gt;
+&lt;li&gt;Intervenção: descontinuação das medicações.&lt;/li&gt;
+&lt;li&gt;Comparação: manutenção da medicação.&lt;/li&gt;
+&lt;li&gt;Desfecho: impacto da intervenção sobre o escore SOFA até o trigésimo dia, morte por SOFA ajustado, admissões em UTI e morte.&lt;/li&gt;
+&lt;li&gt;Tipo de estudo: ensaio clínico randomizado.&lt;/li&gt;
+&lt;li&gt;Tempo de segmento: 30 dias.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;minha-ideia&#34;&gt;Minha ideia&lt;/h2&gt;
+&lt;p&gt;Uma nova ideia de metanálise seria a de se restringir apenas pacientes hipertensos, uma vez que existem usos diversos das medicações que agem sobre o sistema angiotensina. O novo PICOTT seria:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;População: pacientes hipertensos de 18 anos ou mais que receberam prescrição anti sistema angiotensinogênica e apresentam COVID-19 sintomática.&lt;/li&gt;
+&lt;li&gt;Intervenção: mantida conforme referência.&lt;/li&gt;
+&lt;li&gt;Comparação: mantida conforme referência.&lt;/li&gt;
+&lt;li&gt;Desfecho: incluir, dentre os secundários, o descontrole de pressão arterial.&lt;/li&gt;
+&lt;li&gt;Tipo de estudo: mantido.&lt;/li&gt;
+&lt;li&gt;Tempo de seguimento: mantido.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;uma-nova-pergunta&#34;&gt;Uma nova pergunta&lt;/h3&gt;
+&lt;p&gt;A pergunta seria:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A suspensão de IECA ou BRA de uso prévio durante quadro sintomático de COVID-19 é capaz de reduzir a gravidade do quadro?&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;estudos-similares&#34;&gt;Estudos similares&lt;/h2&gt;
+&lt;p&gt;Uma pesquisa ampla no PubMed, Google Scholar, Web of Science e Scielo não encontrou estudo que se compare a restrição da minha ideia sobre o artigo referência.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Bauer A, Schreinlechner M, Sappler N, Dolejsi T, Tilg H, Aulinger BA, Weiss G, Bellmann-Weiler R, Adolf C, Wolf D, Pirklbauer M, Graziadei I, Gänzer H, von Bary C, May AE, Wöll E, von Scheidt W, Rassaf T, Duerschmied D, Brenner C, Kääb S, Metzler B, Joannidis M, Kain HU, Kaiser N, Schwinger R, Witzenbichler B, Alber H, Straube F, Hartmann N, Achenbach S, von Bergwelt-Baildon M, von Stülpnagel L, Schoenherr S, Forer L, Embacher-Aichhorn S, Mansmann U, Rizas KD, Massberg S; ACEI-COVID investigators. &lt;strong&gt;Discontinuation versus continuation of renin-angiotensin-system inhibitors in COVID-19 (ACEI-COVID): a prospective, parallel group, randomised, controlled, open-label trial&lt;/strong&gt;. Lancet Respir Med. 2021 Aug;9(8):863-872. doi: 10.1016/S2213-2600(21)00214-9. Epub 2021 Jun 11. Erratum in: Lancet Respir Med. 2021 Sep;9(9):e95. doi: 10.1016/S2213-2600(21)00362-3. PMID: 34126053; PMCID: PMC8195495.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Curriculum Vitae</title>
 		<link>https://www.meister.med.br/cv/</link>
 		<pubDate>Thu, 13 Feb 2025 10:36:30 -0300</pubDate>

@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.meister.med.br/tags/mestrado/</loc>
+    <lastmod>2025-03-15T14:32:02-03:00</lastmod>
+  </url><url>
+    <loc>https://www.meister.med.br/tarefas/picott/</loc>
+    <lastmod>2025-03-15T14:32:02-03:00</lastmod>
+  </url><url>
+    <loc>https://www.meister.med.br/tags/</loc>
+    <lastmod>2025-03-15T14:32:02-03:00</lastmod>
+  </url><url>
+    <loc>https://www.meister.med.br/tarefas/</loc>
+    <lastmod>2025-03-15T14:32:02-03:00</lastmod>
+  </url><url>
     <loc>https://www.meister.med.br/cv/</loc>
     <lastmod>2025-02-13T10:36:30-03:00</lastmod>
   </url><url>
@@ -18,7 +30,5 @@
     <lastmod>2025-02-13T10:14:52-03:00</lastmod>
   </url><url>
     <loc>https://www.meister.med.br/categories/</loc>
-  </url><url>
-    <loc>https://www.meister.med.br/tags/</loc>
   </url>
 </urlset>
