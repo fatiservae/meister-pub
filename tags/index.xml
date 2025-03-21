@@ -11,11 +11,22 @@
 	
 	
 	<item>
+		<title>Acesso interno</title>
+		<link>https://www.meister.med.br/acesso/</link>
+		<pubDate>Fri, 21 Mar 2025 12:36:01 -0300</pubDate>
+		
+		<guid>https://www.meister.med.br/acesso/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;../acesso/files&#34;&gt;Arquivos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../tags/doutorado&#34;&gt;Doutorado&lt;/a&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Metodologia Científica - tarefa PICOTT</title>
-		<link>https://www.meister.med.br/tarefas/picott/</link>
+		<link>https://www.meister.med.br/acesso/picott/</link>
 		<pubDate>Sat, 15 Mar 2025 14:32:02 -0300</pubDate>
 		
-		<guid>https://www.meister.med.br/tarefas/picott/</guid>
+		<guid>https://www.meister.med.br/acesso/picott/</guid>
 		<description>&lt;style&gt;
   article {
     text-align:start;
@@ -41,7 +52,12 @@
 &lt;li&gt;Comparação: manutenção da medicação.&lt;/li&gt;
 &lt;li&gt;Desfecho: impacto da intervenção sobre o escore SOFA até o trigésimo dia, morte por SOFA ajustado, admissões em UTI e morte.&lt;/li&gt;
 &lt;li&gt;Tipo de estudo: ensaio clínico randomizado.&lt;/li&gt;
-&lt;li&gt;Tempo de segmento: 30 dias.&lt;/li&gt;
+&lt;li&gt;Tempo de segmento: 30 dias.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;minha-ideia&#34;&gt;Minha ideia&lt;/h2&gt;
 &lt;p&gt;Uma nova ideia de metanálise seria a de se restringir apenas pacientes hipertensos, uma vez que existem usos diversos das medicações que agem sobre o sistema angiotensina. O novo PICOTT seria:&lt;/p&gt;
@@ -63,10 +79,211 @@
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;Bauer A, Schreinlechner M, Sappler N, Dolejsi T, Tilg H, Aulinger BA, Weiss G, Bellmann-Weiler R, Adolf C, Wolf D, Pirklbauer M, Graziadei I, Gänzer H, von Bary C, May AE, Wöll E, von Scheidt W, Rassaf T, Duerschmied D, Brenner C, Kääb S, Metzler B, Joannidis M, Kain HU, Kaiser N, Schwinger R, Witzenbichler B, Alber H, Straube F, Hartmann N, Achenbach S, von Bergwelt-Baildon M, von Stülpnagel L, Schoenherr S, Forer L, Embacher-Aichhorn S, Mansmann U, Rizas KD, Massberg S; ACEI-COVID investigators. &lt;strong&gt;Discontinuation versus continuation of renin-angiotensin-system inhibitors in COVID-19 (ACEI-COVID): a prospective, parallel group, randomised, controlled, open-label trial&lt;/strong&gt;. Lancet Respir Med. 2021 Aug;9(8):863-872. doi: 10.1016/S2213-2600(21)00214-9. Epub 2021 Jun 11. Erratum in: Lancet Respir Med. 2021 Sep;9(9):e95. doi: 10.1016/S2213-2600(21)00362-3. PMID: 34126053; PMCID: PMC8195495.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bauer A. et al. &lt;strong&gt;Discontinuation versus continuation of renin-angiotensin-system inhibitors in COVID-19 (ACEI-COVID): a prospective, parallel group, randomised, controlled, open-label trial&lt;/strong&gt;. Lancet Respir Med. 2021 Aug;9(8):863-872. doi: 10.1016/S2213-2600(21)00214-9. Epub 2021 Jun 11. Erratum in: Lancet Respir Med. 2021 Sep;9(9):e95. doi: 10.1016/S2213-2600(21)00362-3. PMID: 34126053; PMCID: PMC8195495.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Reabilitação ocidental: análise de artigo</title>
+		<link>https://www.meister.med.br/reabilitacao-ocidental/</link>
+		<pubDate>Sat, 01 Mar 2025 09:41:46 -0300</pubDate>
+		
+		<guid>https://www.meister.med.br/reabilitacao-ocidental/</guid>
+		<description>&lt;style&gt;
+  li, ul, p{
+    text-align: start;
+  }
+&lt;/style&gt;
+&lt;h1 id=&#34;análise-do-artigo-western-medical-rehabilitation-through-time-a-historical-and-epistemological-review&#34;&gt;Análise do artigo &amp;ldquo;Western Medical Rehabilitation through Time: A Historical and Epistemological Review&amp;rdquo;&lt;/h1&gt;
+&lt;h2 id=&#34;leitura-reduzida&#34;&gt;Leitura reduzida&lt;/h2&gt;
+&lt;h3 id=&#34;1-marcos-históricos-em-ordem-cronológica&#34;&gt;1. Marcos Históricos em Ordem Cronológica&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Séculos V-IV a.C.: Hipócrates considera lesões físicas e doenças como eventos naturais&lt;/li&gt;
+&lt;li&gt;Século I d.C.: Aulus Cornelius Celsus escreve &amp;ldquo;De Medicina&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Século II d.C.: Galeno estabelece vínculo entre higiene e terapia médica&lt;/li&gt;
+&lt;li&gt;1514-1564: Andreas Vesalius (anatomista)&lt;/li&gt;
+&lt;li&gt;1530-1606: Hieronymus Mercurialis (médico)&lt;/li&gt;
+&lt;li&gt;1543: Publicação de &amp;ldquo;De humani corporis fabrica&amp;rdquo; por Vesalius&lt;/li&gt;
+&lt;li&gt;1569: Publicação de &amp;ldquo;De Arte Gymnastica&amp;rdquo; por Mercurialis&lt;/li&gt;
+&lt;li&gt;1510-1590: Ambroise Paré (cirurgião-barbeiro)&lt;/li&gt;
+&lt;li&gt;1608-1679: Alfonso Borelli (fisiologista e matemático)&lt;/li&gt;
+&lt;li&gt;1680-1: Publicação póstuma de &amp;ldquo;De Motu Animalium&amp;rdquo; de Borelli&lt;/li&gt;
+&lt;li&gt;1638-1686: Niels Stensen (anatomista)&lt;/li&gt;
+&lt;li&gt;1658-1742: Nicolas Andry de Bois-Regard (escritor e médico)&lt;/li&gt;
+&lt;li&gt;1741: Publicação de &amp;ldquo;Traité d&amp;rsquo;orthopédie&amp;rdquo; por Andry&lt;/li&gt;
+&lt;li&gt;1747-1826: Joseph Clément Tissot (médico)&lt;/li&gt;
+&lt;li&gt;1759-1839: Johann Friedrich Guts-Muths (professor e educador)&lt;/li&gt;
+&lt;li&gt;1774-1842: Charles Bell (anatomista e neurologista)&lt;/li&gt;
+&lt;li&gt;1776-1839: Pehr Henrik Ling (professor de ginástica e fisioterapeuta)&lt;/li&gt;
+&lt;li&gt;1780: Publicação de &amp;ldquo;Gymnastique Médicinale et Chirurgicale&amp;rdquo; por Tissot&lt;/li&gt;
+&lt;li&gt;1793: Publicação de &amp;ldquo;Gymnastik für die Jugend&amp;rdquo; por Guts-Muths&lt;/li&gt;
+&lt;li&gt;1844-1910: Fulgence Raymond (neurologista)&lt;/li&gt;
+&lt;li&gt;1858-1935: Johannes Karl Eugen Alfred Goldscheider (neurologista)&lt;/li&gt;
+&lt;li&gt;1888: Primeira menção do termo &amp;ldquo;reabilitação&amp;rdquo; no Lancet (12 de maio)&lt;/li&gt;
+&lt;li&gt;1898-1943: Frank H. Krusen (médico)&lt;/li&gt;
+&lt;li&gt;1900: Primeira aparição da palavra &amp;ldquo;fisioterapia&amp;rdquo; no Dicionário Médico de W.A.N. Dorland&lt;/li&gt;
+&lt;li&gt;1901-1981: Malcolm MacDonald (Ministro da Saúde do Reino Unido)&lt;/li&gt;
+&lt;li&gt;1901-1989: Howard A. Rusk (médico)&lt;/li&gt;
+&lt;li&gt;1905: Primeiro congresso de fisioterapia em Liège (14 de julho)&lt;/li&gt;
+&lt;li&gt;1906-1991: Karel Bobath (médico)&lt;/li&gt;
+&lt;li&gt;1907-1991: Berta Bobath (fisioterapeuta)&lt;/li&gt;
+&lt;li&gt;1938: Estabelecimento da Society for Physical Therapy Physicians&lt;/li&gt;
+&lt;li&gt;1939: Krusen propõe o termo &amp;ldquo;fisiatra&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;1940: Discurso de MacDonald sobre reabilitação (17 de outubro)&lt;/li&gt;
+&lt;li&gt;1942: Howard A. Rusk cria o Army Air Forces Convalescent Training Program&lt;/li&gt;
+&lt;li&gt;1944: Estabelecimento do British Council for Rehabilitation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-perguntas-e-respostas&#34;&gt;2. Perguntas e Respostas&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;O que é reabilitação médica?&lt;/strong&gt;
+&amp;ldquo;Reabilitação médica é o processo direcionado a promover e facilitar a recuperação de danos físicos, distúrbios psicológicos e mentais, e doenças clínicas.&amp;rdquo; (Início da seção 1)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Quando o termo &amp;ldquo;reabilitação&amp;rdquo; foi mencionado pela primeira vez no Lancet?&lt;/strong&gt;
+&amp;ldquo;O Dicionário também cita a edição de 12 de maio de 1888 do Lancet, onde é possível ler que &amp;lsquo;os pequenos sofredores (ou seja, crianças que sofrem) de ignorância ou negligência dos pais são admitidos como pacientes, e sua reabilitação física é tentada sob condições mais favoráveis ao sucesso.&amp;rsquo;&amp;rdquo; (Seção 1)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Quem foi Malcolm MacDonald e qual sua contribuição para a reabilitação?&lt;/strong&gt;
+&amp;ldquo;O Ministro da Saúde do Reino Unido, Malcolm MacDonald (1901-1981), afirmou que &amp;lsquo;há um outro aspecto da cura dos feridos [&amp;hellip;] que é o processo conhecido como reabilitação&amp;rsquo;&amp;rdquo; (Seção 1)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Quando surgiu o termo &amp;ldquo;fisioterapia&amp;rdquo; na língua inglesa?&lt;/strong&gt;
+&amp;ldquo;O OED registra o aparecimento da palavra na língua inglesa em 1900, no Dicionário Médico de W. A. N. Dorland, que definiu fisioterapia como &amp;lsquo;o uso de forças naturais, como luz, calor, ar, água e exercício, no tratamento de doenças&amp;rsquo;.&amp;rdquo; (Seção 1)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Como os deficientes eram vistos no mundo ocidental antigo?&lt;/strong&gt;
+&amp;ldquo;No mundo ocidental antigo, pessoas com deficiência eram excluídas da vida social.&amp;rdquo; (Início da seção 2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Qual era a visão da deficiência na Grécia antiga?&lt;/strong&gt;
+&amp;ldquo;Na Grécia antiga, a deficiência era superada apenas por meio de sua completa remoção, e dado que a doença era considerada uma punição atribuída pelas divindades aos seres humanos por causa de suas faltas e pecados&amp;hellip;&amp;rdquo; (Seção 2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Qual foi a contribuição de Hipócrates para a medicina de reabilitação?&lt;/strong&gt;
+&amp;ldquo;Uma grande mudança de paradigma cognitivo e operacional ocorreu com o pai da medicina ocidental, Hipócrates de Cós, que, entre os séculos V e IV antes de Cristo, começou a considerar lesões físicas e doenças clínicas como eventos naturais.&amp;rdquo; (Seção 2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Como o advento do cristianismo alterou a visão sobre pessoas com deficiência?&lt;/strong&gt;
+&amp;ldquo;O advento do cristianismo na área mediterrânea levou a outra mudança fundamental de paradigma. Pessoas que sofrem de grandes deficiências eram frequentemente descritas nos Evangelhos, onde também se tornavam sujeitos de curas milagrosas.&amp;rdquo; (Seção 2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Quais foram as contribuições de Vesalius e Mercurialis no período do Renascimento?&lt;/strong&gt;
+&amp;ldquo;O anatomista e médico brabantiano Andreas Vesalius (1514-1564) publicou em 1543 seu livro fundamental &amp;lsquo;De humani corporis fabrica&amp;rsquo; (Sobre a Fábrica do Corpo Humano), enquanto o médico italiano e estudioso de grego e latim Hieronymus Mercurialis (1530-1606) imprimiu em 1569 seu texto marco intitulado &amp;lsquo;De Arte Gymnastica&amp;rsquo; (A Arte da Ginástica)&amp;rdquo; (Seção 2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Qual foi a contribuição de Ambroise Paré para a reabilitação médica?&lt;/strong&gt;
+&amp;ldquo;Ainda no século XVI, o cirurgião-barbeiro francês Ambroise Paré (1510-1590) forneceu importantes contribuições não apenas nos campos da cirurgia e patologia forense, mas também no estudo do cuidado de feridas e na investigação de mutilações de guerra [&amp;hellip;] Paré é comumente considerado o inventor das próteses de membros.&amp;rdquo; (Seção 2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;O que é iatromecânica e quem foi seu principal representante?&lt;/strong&gt;
+&amp;ldquo;Neste século, a chamada &amp;lsquo;iatromecânica&amp;rsquo;, uma tendência médica que visava explicar eventos fisiológicos humanos em termos mecânicos, tornou-se difusamente privilegiada e um de seus principais representantes foi o fisiologista e matemático italiano Alfonso Borelli (1608-1679).&amp;rdquo; (Seção 3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Quem introduziu o termo &amp;ldquo;ortopedia&amp;rdquo; e quando?&lt;/strong&gt;
+&amp;ldquo;Nos anos vinte [do século XVIII], o escritor e médico francês Nicolas Andry de Bois-Regard (1658-1742) estabeleceu um sólido vínculo entre o aparato músculo-esquelético e o exercício físico, e em seu famoso texto &amp;lsquo;Traité d&amp;rsquo;orthopédie&amp;rsquo; (Tratado sobre Ortopedia, 1741), ele introduziu este novo termo para a comunidade médica internacional.&amp;rdquo; (Seção 3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Qual foi a contribuição de Joseph Clément Tissot para a reabilitação?&lt;/strong&gt;
+&amp;ldquo;Aproximadamente quarenta anos depois, o médico suíço Joseph Clément Tissot (1747-1826), pioneiro na área de ginástica médica e cirúrgica, publicou sua obra-prima &amp;lsquo;Gymnastique Médicinale et Chirurgicale&amp;rsquo; (Ginástica Médica e Cirúrgica, 1780), na qual ilustrou as vantagens médicas correlacionadas à mobilização oportuna de pacientes cirúrgicos.&amp;rdquo; (Seção 3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;O que era a &amp;ldquo;ginástica sueca&amp;rdquo; e quem a promoveu?&lt;/strong&gt;
+&amp;ldquo;A &amp;lsquo;ginástica sueca&amp;rsquo; foi, por sua vez, fortemente promovida pelo professor sueco de ginástica médica e fisioterapeuta Pehr Henrik Ling (1776-1839), que estava convencido dos efeitos benéficos da atividade física estruturada para uma variedade de doenças humanas.&amp;rdquo; (Seção 3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Quem foi Charles Bell e qual foi sua contribuição para a neurologia?&lt;/strong&gt;
+&amp;ldquo;O anatomista e neurologista escocês Charles Bell (1774-1842), que primeiro distinguiu entre nervos motores e sensoriais e propôs o conceito de &amp;lsquo;sentido muscular&amp;rsquo;.&amp;rdquo; (Seção 3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;O que era a sala Zander e quando foi fundada?&lt;/strong&gt;
+&amp;ldquo;No início do século XX, um dos primeiros departamentos mecanomédicos foi fundado no Massachusetts General Hospital (EUA) e chamado de sala Zander. Esta sala abrigava muitas máquinas e instrumentos e foi posteriormente enriquecida com instalações de terapia UV e hidroterapia.&amp;rdquo; (Seção 3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Quem é considerado o pai da reabilitação nos EUA?&lt;/strong&gt;
+&amp;ldquo;O médico americano Howard A. Rusk (1901-1989) foi um genuíno pioneiro neste campo e seu Army Air Forces Convalescent Training Program (1942) visava uma reabilitação abrangente, incluindo características físico-individuais, neuropsicológicas e ocupacional-sociais. Rusk é, portanto, considerado por muitos historiadores da medicina como o pai da reabilitação nos EUA.&amp;rdquo; (Seção 3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Qual foi a contribuição do casal Bobath para a reabilitação?&lt;/strong&gt;
+&amp;ldquo;O médico Karel Bobath (1906-1991) e sua esposa Berta (1907-1991), fisioterapeuta, elaboraram uma estratégia inovadora para a reabilitação de pessoas com deficiência devido a distúrbios do sistema nervoso central. O objetivo na implementação do conceito Bobath era estimular o aprendizado motor para um controle motor apropriado e eficiente, promovendo a recuperação funcional e a participação ativa.&amp;rdquo; (Seção 3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Como a Segunda Guerra Mundial influenciou o desenvolvimento da reabilitação?&lt;/strong&gt;
+&amp;ldquo;Outra importante fonte de deficiência é representada, no século XX, pela Segunda Guerra Mundial. O grande número de soldados feridos e mutilados levou à introdução das primeiras unidades de reabilitação dentro dos hospitais militares.&amp;rdquo; (Seção 3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Quando a reabilitação moderna emerge e de quais caminhos ela deriva?&lt;/strong&gt;
+&amp;ldquo;Quando a reabilitação moderna emerge, por volta da metade do século XX, ela deriva da integração de diferentes e complementares caminhos. [&amp;hellip;] deriva da combinação de abordagens de gerenciamento focadas na compreensão ortopédica e biomecânica dos padrões de movimento, no domínio dos mecanismos neuropsicológicos e na atenção à dimensão sócio-ocupacional da realidade cotidiana.&amp;rdquo; (Seção 4)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;O que a reabilitação cardíaca se tornou nas últimas décadas?&lt;/strong&gt;
+&amp;ldquo;A reabilitação cardíaca tornou-se nas últimas décadas um processo polidimensional aplicado não apenas em hospitais, mas também em clínicas ambulatoriais e em casa, de modo a melhorar o bem-estar psicológico e a reinserção social de pacientes cardiovasculares.&amp;rdquo; (Seção 3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;síntese&#34;&gt;Síntese&lt;/h2&gt;
+&lt;h3 id=&#34;introdução&#34;&gt;Introdução&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Malformações congênitas&lt;/li&gt;
+&lt;li&gt;Aspecto civil-militar da desabilitação&lt;/li&gt;
+&lt;li&gt;A revolução industrial e acidentes&lt;/li&gt;
+&lt;li&gt;Mais que cura&lt;/li&gt;
+&lt;li&gt;Surgimento da fisioterapia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;definições&#34;&gt;Definições&lt;/h3&gt;
+&lt;p&gt;Geral: reabilitação é restaurar a pessoa desabilitada em total ou algum grau por meio de treino apropriado.&lt;/p&gt;
+&lt;p&gt;Reabilitação de deficiências congênitas para Lancet 1888: restaurar a condição mais favorável ao sucesso de vida&lt;/p&gt;
+&lt;p&gt;Fisioterapia: uso de forças naturais como luz, ar, água, calor e exercício para tratar doenças.&lt;/p&gt;
+&lt;h4 id=&#34;antiguidade&#34;&gt;antiguidade:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Hippocrates: quinto ou quarto século antes de Cristo.&lt;/li&gt;
+&lt;li&gt;Foco nas complicações agudas, negligenciando doenças crônicas. Apenas epilepsia era estudada.&lt;/li&gt;
+&lt;li&gt;Pessoa era excluída.&lt;/li&gt;
+&lt;li&gt;Figura heroica do recuperado, principalmente se ferido em guerra.&lt;/li&gt;
+&lt;li&gt;Esporte era valorizado, surgem olimpíadas.&lt;/li&gt;
+&lt;li&gt;Surge o cristianismo com mudança de foco para curas milagrosas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;roma&#34;&gt;roma:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Aulus Cornelius Celsus&lt;/li&gt;
+&lt;li&gt;Valorização do guerreiro, da vivência esportiva, saunas, massagens, uma espécie de fisioterapia primitiva.&lt;/li&gt;
+&lt;li&gt;Houve valorização da higiene e da preservação da saúde por Galeno.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;idade-média&#34;&gt;idade média:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Queda da valoração dos exercícios, aumento da importância do descanso correto.&lt;/li&gt;
+&lt;li&gt;pouca literatura&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;renascença&#34;&gt;renascença:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Volta dos estudos em reabilitação&lt;/li&gt;
+&lt;li&gt;compreensão geral moderna da medicina com Da Vinci&lt;/li&gt;
+&lt;li&gt;De humani corpori fabrica: Andreas Versalius&lt;/li&gt;
+&lt;li&gt;De arte ginaestica: Andreas Versalius - descreve exercícios como capazes de cura&lt;/li&gt;
+&lt;li&gt;Mercurialis define a ginástica médica&lt;/li&gt;
+&lt;li&gt;Ambroise Paré, pai da medicina forense para alguns, descreve a dor dos amputados&lt;/li&gt;
+&lt;li&gt;Paré também criou dispositivos prostéticos mais leves que os de metal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;século-xvi-e-xvii&#34;&gt;século XVI e XVII&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Século da ciência&lt;/li&gt;
+&lt;li&gt;Início da observação microscópica e de histopatologias&lt;/li&gt;
+&lt;li&gt;Descoberta dos mecanismos biomecânicos, da musculatura e esqueleto&lt;/li&gt;
+&lt;li&gt;Primeiro tratado de ortopedia&lt;/li&gt;
+&lt;li&gt;Tissot escreve Gymnastique M´edicinale et Chirurgicale&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;século-xviii&#34;&gt;século XVIII&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Compreensão do sistema nervoso com Bell&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;século-xix-e-xx&#34;&gt;século XIX e XX&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Primeiras escolas de medicina mecânica nos EUA&lt;/li&gt;
+&lt;li&gt;Hidroterapia&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 	</item>
 	
@@ -77,7 +294,7 @@
 		
 		<guid>https://www.meister.med.br/cv/</guid>
 		<description>&lt;h2 id=&#34;sobre&#34;&gt;Sobre&lt;/h2&gt;
-&lt;p&gt;Médica com mais de dez anos de experiência em pediatria, atuante de diversas unidades de terapia intensiva pediátricas em Pelotas, Porto Alegre e Brasília, apaixonada pelo bem estar fisiológico, sempre atuou com orientação nutricional e medicina estética, tendo experiência com aplicação de toxína butolínica, aplicação de outros corretivos, apagamento de rugas, levantamento, harmonização facial e outros&lt;/p&gt;
+&lt;p&gt;Médica com mais de dez anos de experiência em pediatria, atuante de diversas unidades de terapia intensiva pediátricas em Pelotas, Porto Alegre e Brasília, apaixonada pelo bem estar fisiológico, sempre atuou com orientação nutricional e medicina estética, tendo experiência com aplicação de toxína butolínica, aplicação de outros corretivos, apagamento de rugas, levantamento, cirurgias dermatológicas, harmonização facial e outros.&lt;/p&gt;
 &lt;h2 id=&#34;certificados&#34;&gt;Certificados&lt;/h2&gt;
 
  
@@ -366,7 +583,27 @@ img{
 		<pubDate>Thu, 13 Feb 2025 10:14:52 -0300</pubDate>
 		
 		<guid>https://www.meister.med.br/estetica/</guid>
-		<description>&lt;p&gt;Médica esteticista.&lt;/p&gt;
+		<description>&lt;div class=limenu&gt;
+&lt;ul&gt;
+&lt;li&gt;Peelings faciais&lt;/li&gt;
+&lt;li&gt;&lt;a href=../hifu&gt;Ultrassom terapêutico - microfocado HI-FU: lifting não cirúrgico&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Cirurgias dermatológicas&lt;/li&gt;
+&lt;li&gt;Prescrição de skincare farmacológico&lt;/li&gt;
+&lt;li&gt;Prescrição dietética para cuidado dermatológico&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Arquivos</title>
+		<link>https://www.meister.med.br/acesso/files/</link>
+		<pubDate>Sat, 23 Dec 2023 20:13:59 -0300</pubDate>
+		
+		<guid>https://www.meister.med.br/acesso/files/</guid>
+		<description>&lt;p&gt;&lt;input type=&#34;text&#34; id=&#34;search&#34; placeholder=&#34;ex. pediatria&#34;&gt;&lt;/input&gt;&lt;/p&gt;
+&lt;script src=&#34;../files.js&#34;&gt;&lt;/script&gt;
+&lt;ul id=&#34;files&#34;&gt;&lt;/ul&gt;
 </description>
 	</item>
 	

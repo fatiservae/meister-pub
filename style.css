@@ -1472,3 +1472,51 @@ hr {
   /* Força a opacidade total */
   opacity: 1 !important;
 }
+
+@media print {
+  article {
+    font-size: 1rem;
+  }
+
+  p {
+    page-break-inside: avoid;
+  }
+
+  /* Manter headings com o conteúdo seguinte */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    page-break-after: avoid;
+  }
+
+  .me,
+  nav.barra,
+  .taglist,
+  footer,
+  .aoTopo,
+  .aoInicio {
+    display: none;
+  }
+}
+
+ul {}
+
+.limenu ul li {
+  padding: 1ch;
+  background: var(--vidro);
+  border: 1px solid #999;
+  border-radius: var(--borderRadius);
+}
+
+div.limenu ul li::marker {
+  content: "\00a0";
+}
+
+div.limenu ul li:hover,
+div.limenu ul li a:hover {
+  background: pink;
+  color: black;
+}

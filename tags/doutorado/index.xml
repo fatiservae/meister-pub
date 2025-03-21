@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Dra. Vera Meister</title>
-	<link>https://www.meister.med.br/</link>
-	<description>Recent content on Dra. Vera Meister</description>
+	<link>https://www.meister.med.br/tags/doutorado/</link>
+	<description>Recent content in doutorado on Dra. Vera Meister</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Thu, 13 Feb 2025 10:18:51 -0300</lastBuildDate>
+	<lastBuildDate>Sat, 15 Mar 2025 14:32:02 -0300</lastBuildDate>
     
-        <atom:link href="https://www.meister.med.br/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.meister.med.br/tags/doutorado/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
@@ -16,8 +16,8 @@
 		<pubDate>Fri, 21 Mar 2025 12:36:01 -0300</pubDate>
 		
 		<guid>https://www.meister.med.br/acesso/</guid>
-		<description>&lt;p&gt;&lt;a href=&#34;./acesso/files&#34;&gt;Arquivos&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;./tags/doutorado&#34;&gt;Doutorado&lt;/a&gt;&lt;/p&gt;
+		<description>&lt;p&gt;&lt;a href=&#34;../../acesso/files&#34;&gt;Arquivos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../tags/doutorado&#34;&gt;Doutorado&lt;/a&gt;&lt;/p&gt;
 </description>
 	</item>
 	
@@ -36,7 +36,7 @@
 
 
   &lt;div id=&#34;img-div&#34;&gt;
-    &lt;img class=mediaframe src=&#34;./pix/mestrado/article.png&#34;&gt;
+    &lt;img class=mediaframe src=&#34;../../pix/mestrado/article.png&#34;&gt;
       &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/img&gt;
   &lt;/div&gt;
@@ -310,8 +310,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Pediatra pela Universidade Federal de Pelotas&lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/pediatra.jpeg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/pediatra.jpeg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/pediatra.jpeg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/pediatra.jpeg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -321,8 +321,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Médica pela Universidade Federal de Pelotas&lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/medico.jpeg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/medico.jpeg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/medico.jpeg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/medico.jpeg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -332,8 +332,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/medico-verso.jpeg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/medico-verso.jpeg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/medico-verso.jpeg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/medico-verso.jpeg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -343,8 +343,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Amamentação&lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/amamentacao-60.jpg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/amamentacao-60.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/amamentacao-60.jpg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/amamentacao-60.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -354,8 +354,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/amamentacao-verso.jpg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/amamentacao-verso.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/amamentacao-verso.jpg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/amamentacao-verso.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -365,8 +365,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Cuidado nutricional na diabetes&lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/diabetes-80.jpg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/diabetes-80.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/diabetes-80.jpg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/diabetes-80.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -376,8 +376,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/diabetes-verso-80.jpg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/diabetes-verso-80.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/diabetes-verso-80.jpg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/diabetes-verso-80.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -387,8 +387,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Inclusão da criança com Síndrome de Down&lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/down-280.jpg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/down-280.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/down-280.jpg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/down-280.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -398,8 +398,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/down-verso-280.jpg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/down-verso-280.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/down-verso-280.jpg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/down-verso-280.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -409,8 +409,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Nutróloga pela Faculdade Global&lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/nutrologia.jpg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/nutrologia.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/nutrologia.jpg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/nutrologia.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -420,8 +420,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/nutrologia-verso.jpg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/nutrologia-verso.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/nutrologia-verso.jpg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/nutrologia-verso.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -431,8 +431,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Obesidade infantil&lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/obesidade-infantil.jpg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/obesidade-infantil.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/obesidade-infantil.jpg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/obesidade-infantil.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -442,8 +442,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/obesidade-infantil-verso.jpg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/obesidade-infantil-verso.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/obesidade-infantil-verso.jpg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/obesidade-infantil-verso.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -453,8 +453,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Sala de vacina&lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/sala-vacina-280.jpg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/sala-vacina-280.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/sala-vacina-280.jpg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/sala-vacina-280.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -464,8 +464,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/sala-vacina-verso-280.jpg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/sala-vacina-verso-280.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/sala-vacina-verso-280.jpg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/sala-vacina-verso-280.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -475,8 +475,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt;Saúde da criança&lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/saude-crianca-280.jpg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/saude-crianca-280.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/saude-crianca-280.jpg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/saude-crianca-280.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -486,8 +486,8 @@
     
       &lt;div class=&#34;legend&#34;&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
       &lt;div class=&#34;slide&#34;&gt;
-        &lt;a href=&#34;./pix/cv/saude-crianca-verso-280.jpg&#34;&gt;
-          &lt;img src=&#34;./pix/cv/saude-crianca-verso-280.jpg&#34;&gt;&lt;/img&gt;
+        &lt;a href=&#34;../../pix/cv/saude-crianca-verso-280.jpg&#34;&gt;
+          &lt;img src=&#34;../../pix/cv/saude-crianca-verso-280.jpg&#34;&gt;&lt;/img&gt;
         &lt;/a&gt;
       &lt;/div&gt;
     
@@ -554,14 +554,14 @@ img{
 &lt;/style&gt;
 &lt;p&gt;Médica nutróloga com experiência em emagrecimento, readequação dietética, atenção ao diabético e nutrologia da infância.&lt;/p&gt;
 &lt;h2 id=&#34;consulta-avulsa&#34;&gt;Consulta avulsa&lt;/h2&gt;
-&lt;p&gt;&lt;img src=./pix/consulta.webp&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=../../pix/consulta.webp&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;Um contato breve mas intenso, de readequação alimentar, prescrição de dietas de longo prazo, orientações e solicitação de exames, com direito a um retorno por WhatsApp.&lt;/p&gt;
 &lt;p&gt;&lt;a href=#&gt;Quero marcar!&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;consulta-periódica&#34;&gt;Consulta periódica&lt;/h2&gt;
 &lt;p&gt;Plano de consultas de semestre e anual, com frequência individualizada e retornos múltiplos. O objetivo é acompanhar de perto o desenvolvimento da orientação alimentar.&lt;/p&gt;
 &lt;p&gt;&lt;a href=#&gt;Quero marcar!&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;nutricoaching&#34;&gt;Nutricoaching&lt;/h2&gt;
-&lt;p&gt;&lt;img src=./pix/nutricoach.webp&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=../../pix/nutricoach.webp&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;A &lt;em&gt;nutricoach&lt;/em&gt; te acompanha semanalmente, com retorno presencial, avaliação antropométrica e prescrição de medicações específicas para perda de peso.&lt;/p&gt;
 &lt;p&gt;&lt;a href=#&gt;Quero marcar!&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -586,7 +586,7 @@ img{
 		<description>&lt;div class=limenu&gt;
 &lt;ul&gt;
 &lt;li&gt;Peelings faciais&lt;/li&gt;
-&lt;li&gt;&lt;a href=./hifu&gt;Ultrassom terapêutico - microfocado HI-FU: lifting não cirúrgico&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=../../hifu&gt;Ultrassom terapêutico - microfocado HI-FU: lifting não cirúrgico&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Cirurgias dermatológicas&lt;/li&gt;
 &lt;li&gt;Prescrição de skincare farmacológico&lt;/li&gt;
 &lt;li&gt;Prescrição dietética para cuidado dermatológico&lt;/li&gt;
@@ -602,7 +602,7 @@ img{
 		
 		<guid>https://www.meister.med.br/acesso/files/</guid>
 		<description>&lt;p&gt;&lt;input type=&#34;text&#34; id=&#34;search&#34; placeholder=&#34;ex. pediatria&#34;&gt;&lt;/input&gt;&lt;/p&gt;
-&lt;script src=&#34;./files.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;../../files.js&#34;&gt;&lt;/script&gt;
 &lt;ul id=&#34;files&#34;&gt;&lt;/ul&gt;
 </description>
 	</item>
