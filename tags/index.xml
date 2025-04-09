@@ -5,10 +5,106 @@
 	<description>Recent content in tags on Dra. Vera Meister</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Mon, 31 Mar 2025 21:43:52 -0300</lastBuildDate>
+	<lastBuildDate>Wed, 09 Apr 2025 11:42:26 -0300</lastBuildDate>
     
         <atom:link href="https://www.meister.med.br/tags/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>Questionário pré-consulta wellness</title>
+		<link>https://www.meister.med.br/materiais/questionario-pre-consulta/</link>
+		<pubDate>Wed, 09 Apr 2025 11:42:26 -0300</pubDate>
+		
+		<guid>https://www.meister.med.br/materiais/questionario-pre-consulta/</guid>
+		<description>&lt;h2 id=&#34;questionário-para-consultas-de-emagrecimento&#34;&gt;Questionário para Consultas de Emagrecimento&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+&lt;form id=&#34;weightLossForm&#34;&gt;
+    &lt;!-- 1. Histórico de Peso --&gt;
+    &lt;label&gt;1. Nos últimos 12 meses, você perdeu, manteve ou ganhou peso?&lt;/label&gt;&lt;br&gt;
+    &lt;select name=&#34;weightHistory&#34;&gt;
+        &lt;option value=&#34;2&#34;&gt;Perdi ≥ 4 kg&lt;/option&gt;
+        &lt;option value=&#34;1&#34;&gt;Mantive (± 2 kg)&lt;/option&gt;
+        &lt;option value=&#34;0&#34;&gt;Ganhei ≥ 4 kg&lt;/option&gt;
+    &lt;/select&gt;&lt;br&gt;&lt;br&gt;
+    &lt;!-- 2. Autoeficácia Alimentar --&gt;
+    &lt;label&gt;2. Você se sente confiante em resistir a comer em situações sociais?&lt;/label&gt;&lt;br&gt;
+    &lt;select name=&#34;eatingConfidence&#34;&gt;
+        &lt;option value=&#34;5&#34;&gt;Sempre&lt;/option&gt;
+        &lt;option value=&#34;4&#34;&gt;Frequentemente&lt;/option&gt;
+        &lt;option value=&#34;3&#34;&gt;Às vezes&lt;/option&gt;
+        &lt;option value=&#34;2&#34;&gt;Raramente&lt;/option&gt;
+        &lt;option value=&#34;1&#34;&gt;Nunca&lt;/option&gt;
+    &lt;/select&gt;&lt;br&gt;&lt;br&gt;
+    &lt;!-- 3. Comportamento Alimentar --&gt;
+    &lt;label&gt;3. Com que frequência você sente que perde o controle sobre o quanto come?&lt;/label&gt;&lt;br&gt;
+    &lt;select name=&#34;eatingControl&#34;&gt;
+        &lt;option value=&#34;1&#34;&gt;Nunca&lt;/option&gt;
+        &lt;option value=&#34;2&#34;&gt;Raramente&lt;/option&gt;
+        &lt;option value=&#34;3&#34;&gt;Às vezes&lt;/option&gt;
+        &lt;option value=&#34;4&#34;&gt;Frequentemente&lt;/option&gt;
+        &lt;option value=&#34;5&#34;&gt;Sempre&lt;/option&gt;
+    &lt;/select&gt;&lt;br&gt;&lt;br&gt;
+    &lt;!-- 4. Atividade Física --&gt;
+    &lt;label&gt;4. Você pratica atividade física regularmente para controlar seu peso?&lt;/label&gt;&lt;br&gt;
+    &lt;select name=&#34;physicalActivity&#34;&gt;
+        &lt;option value=&#34;2&#34;&gt;Sim, consistentemente&lt;/option&gt;
+        &lt;option value=&#34;1&#34;&gt;Sim, às vezes&lt;/option&gt;
+        &lt;option value=&#34;0&#34;&gt;Não&lt;/option&gt;
+    &lt;/select&gt;&lt;br&gt;&lt;br&gt;
+    &lt;!-- 5. Conhecimento Nutricional --&gt;
+    &lt;label&gt;5. Você sabe identificar alimentos com alta densidade energética?&lt;/label&gt;&lt;br&gt;
+    &lt;select name=&#34;nutritionKnowledge&#34;&gt;
+        &lt;option value=&#34;2&#34;&gt;Sim, sempre&lt;/option&gt;
+        &lt;option value=&#34;1&#34;&gt;Sim, às vezes&lt;/option&gt;
+        &lt;option value=&#34;0&#34;&gt;Não&lt;/option&gt;
+    &lt;/select&gt;&lt;br&gt;&lt;br&gt;
+    &lt;!-- 6. Motivação --&gt;
+    &lt;label&gt;6. Quão motivado você está para perder peso agora?&lt;/label&gt;&lt;br&gt;
+    &lt;select name=&#34;motivation&#34;&gt;
+        &lt;option value=&#34;3&#34;&gt;Muito&lt;/option&gt;
+        &lt;option value=&#34;2&#34;&gt;Moderadamente&lt;/option&gt;
+        &lt;option value=&#34;1&#34;&gt;Pouco&lt;/option&gt;
+        &lt;option value=&#34;0&#34;&gt;Nada&lt;/option&gt;
+    &lt;/select&gt;&lt;br&gt;&lt;br&gt;
+    &lt;button type=&#34;button&#34; onclick=&#34;calculateScore()&#34;&gt;Calcular Pontuação&lt;/button&gt;
+&lt;/form&gt;
+&lt;p id=&#34;result&#34;&gt;&lt;/p&gt;
+&lt;script&gt;
+    function calculateScore() {
+        const form = document.getElementById(&#39;weightLossForm&#39;);
+        const data = new FormData(form);
+        let score = 0;
+        for (let value of data.values()) {
+            score += parseInt(value);
+        }
+        let interpretation;
+        if (score &lt;= 6) interpretation = &#34;Baixo potencial (0-6)&#34;;
+        else if (score &lt;= 12) interpretation = &#34;Moderado (7-12)&#34;;
+        else interpretation = &#34;Alto potencial (13-19)&#34;;
+        document.getElementById(&#39;result&#39;).innerText = `Pontuação: ${score} - ${interpretation}`;
+    }
+&lt;/script&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Brantley et al., &lt;strong&gt;Weight Loss Maintenance (WLM): Design and Rationale&lt;/strong&gt; (PMC, 2009).&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Clark et al., &lt;strong&gt;The Weight Efficacy Lifestyle Questionnaire&lt;/strong&gt; (validado em PMC, 2019, adaptação chilena).&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Stunkard &amp;amp; Messick, &lt;strong&gt;The Three-Factor Eating Questionnaire&lt;/strong&gt; (PMC, 2017).&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;Hartmann-Boyce et al., &lt;strong&gt;Oxford Food and Activity Behaviors 20-item Questionnaire&lt;/strong&gt; (Wiley, 2022).&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;James et al., &lt;strong&gt;Development and Validation of WMNKQ&lt;/strong&gt; (Nature, 2020).&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+	</item>
 	
 	<item>
 		<title>Introdução de artigos - análise de um artigo</title>

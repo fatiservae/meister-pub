@@ -95,7 +95,7 @@ strong {
 }
 
 article {
-  text-align: center;
+  text-align: start;
   padding: 1rem;
 }
 
@@ -403,6 +403,11 @@ code {
 
 #tag_culinária::before {
   content: "🍸🍕 ";
+}
+
+#tag_doutorado::before {
+  content: "📚 ";
+
 }
 
 #tag_apresentações::before {
