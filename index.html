@@ -26,6 +26,15 @@
 
 
 
+  
+  
+  
+
+
+
+
+
+
 
 
 
@@ -90,6 +99,40 @@
 <!-- <img class=me src=./me.jpg></img> -->
 <!-- <span class=metxt>Dra. Vera Meister</span> -->
 <br>
+<script>
+
+  document.addEventListener("DOMContentLoaded", function () {
+    let typedout = "";
+    const texto = "Esta vai ser a frase, vamos ver se fica boa! Inclui pausas maiores em pontos, vírgulas e outros... massa!";
+    const comprimento = texto.length;
+    let currentDelay = 0;
+
+    function updateText(char) {
+      typedout += char;
+      document.getElementById("out").innerText = typedout;
+    }
+
+    for (let i = 0; i < comprimento; i++) {
+      
+      const delay = texto[i] === "!" || texto[i] === ":" || texto[i] === "?" || texto[i] === "." || texto[i] === "," ? 300 : 60;
+      currentDelay += delay;
+
+      setTimeout(() => updateText(texto[i]), currentDelay);
+    }
+  })
+</script>
+
+<div id="divFrase">
+  <span id="out"></span>
+  <div id="autor"></div>
+  <br>
+</div>
+
+<style>
+  .divFrase {
+    max-width: 50vw;
+  }
+</style>
 <br>
 <br>
 <br>
