@@ -3,6 +3,7 @@
 }
 
 :root {
+  --ouro: #e0bfa6;
   /*
   */
   --stdTransition: background-color 0.2s ease;
@@ -15,7 +16,7 @@
   --stdBorder: 1px solid var(--fontColor);
   color: var(--fontColor);
   font-family: 'Fira sans';
-  font-weight: 400;
+  font-weight: 500;
   font-size: 1.2rem;
   background-color: var(--backgroundColor);
 }
@@ -27,19 +28,21 @@
 
 /* :root[data-tema="light"] { */
 :root {
+  background: var(--gradiente);
   --strongColor: black;
-  --gradiente: radial-gradient(ellipse at 50% 20%,
-      pink 0,
-      transparent 55%),
-    radial-gradient(ellipse at 50% 50%,
-      #bf90f5 0,
-      transparent 60%);
+  --gradiente: linear-gradient(to bottom, black 0%, black 30%, black 50%,  #2f1210 100%);
+  /* --gradiente: radial-gradient(ellipse at 50% 20%, */
+      /* black 0, */
+      /* transparent 55%), */
+    /* radial-gradient(ellipse at 50% 50%, */
+      /* #0f0f0f 0, */
+      /* transparent 60%); */
   --dimmedFontColor: #666;
   --hoverBackground: #ccc;
   --navLinkHoverBack: gray;
-  --linkColor: #5a5fed;
+  --linkColor: white;
   --linkColorHover: darkblue;
-  --headingsColor: darkred;
+  --headingsColor: var(--ouro);
   --darkerBg: darkgray;
   --corTermo: darkred;
   --selectionColor: var(--headingsColor);
@@ -47,9 +50,9 @@
   --highLightColor: lime;
   /*
   */
-  --backgroundColor: #eee;
+  --backgroundColor: #121212;
   --borderColor: black;
-  --fontColor: #222;
+  --fontColor: var(--ouro);
 }
 
 :root[data-tema="dark"] {
@@ -77,7 +80,6 @@
 }
 
 body {
-  background: var(--gradiente);
   /*
   border-radius: var(--borderRadius);
   */
@@ -281,19 +283,36 @@ span#frase {
 }
 
 .me {
-  border: 6px solid violet;
+  border: 6px solid var(--ouro);
   border-radius: 100%;
   max-height: 30vh;
 }
 
-.metxt {
+#notas{
+  text-aligh: center;
+  font-size: 60%;
+  display:flex;
+}
+#notas div{
+  width: 20%;
+  margin: auto;
+}
+#notas div p{
+  wrap: none;
+}
+
+#metxt {
+  color: gold;
   font-family: Lavishly Yours;
   font-size: 200%;
 }
 
+#logotop {
+  max-height: 15vh;
+}
 nav.barra {
-  font-family: 'style script';
-  font-size: 150%;
+  /* font-family: 'style script'; */
+  /* font-size: 150%; */
   display: block;
   flex-wrap: wrap;
   justify-content: center;
@@ -331,8 +350,8 @@ nav a {
 
 nav.barra a:active,
 nav.barra a:hover {
-  background-color: var(--hoverBackground);
-  color: var(--fontColor);
+  background-color: var(--ouro);
+  color: black;
   /* Para evitar ser sobreposto por a{}*/
   text-decoration: underline;
 }
@@ -1389,7 +1408,10 @@ h6::before {
 div.duploflex p {}
 
 hr {
+  height: 1px;
+  border:none;
   width: 25%;
+  background-color: var(--ouro);
 }
 
 .footnotes hr {
@@ -1406,62 +1428,6 @@ hr {
 
 .etiqueta {
   background: var(--gradiente);
-}
-
-/* Mediaqueries */
-@media only screen and (max-width: 800px) {
-  img {
-    max-height: 80vw;
-  }
-
-  input#globalsearch {
-    margin-top: 1ch;
-  }
-}
-
-@media only screen and (max-width: 900px) {
-  #artigos {
-    columns: 1;
-  }
-
-  .duploflex {
-    display: block;
-  }
-
-  .duploflex div {
-    max-width: 100%;
-  }
-
-  .fundo-only-big {
-    display: none;
-  }
-
-  body {
-    font-size: 95%;
-    margin: 2ch calc(15% - 50px);
-    margin-top: 0px;
-  }
-
-  .scalidraw svg {
-    max-height: 65vw;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  :root {
-    background-color: var(--backgroundColor);
-  }
-
-  body {
-    font-size: 90%;
-    margin: 1ch 0px;
-    margin-top: 0px;
-  }
-
-  article,
-  nav.barra {
-    border: none;
-  }
 }
 
 .mediaframe {
@@ -1525,3 +1491,65 @@ div.limenu ul li a:hover {
   background: pink;
   color: black;
 }
+/* Mediaqueries */
+@media only screen and (max-width: 800px) {
+  img {
+    max-height: 80vw;
+  }
+
+  input#globalsearch {
+    margin-top: 1ch;
+  }
+  #notas {
+    display: grid;
+  }
+  #notas div {
+    width: 100%;   
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  #artigos {
+    columns: 1;
+  }
+
+  .duploflex {
+    display: block;
+  }
+
+  .duploflex div {
+    max-width: 100%;
+  }
+
+  .fundo-only-big {
+    display: none;
+  }
+
+  body {
+    font-size: 95%;
+    margin: 2ch calc(15% - 50px);
+    margin-top: 0px;
+  }
+
+  .scalidraw svg {
+    max-height: 65vw;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  :root {
+    background-color: var(--backgroundColor);
+  }
+
+  body {
+    font-size: 90%;
+    margin: 1ch 0px;
+    margin-top: 0px;
+  }
+
+  article,
+  nav.barra {
+    border: none;
+  }
+}
+

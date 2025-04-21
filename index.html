@@ -9,7 +9,7 @@
 <meta name="robots" content="index, follow">
 
 <head>
-	<meta name="generator" content="Hugo 0.145.0">
+	<meta name="generator" content="Hugo 0.146.6">
   
   
   
@@ -26,21 +26,7 @@
 
 
 
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-">
+  ">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="index, follow">
   <meta charset="utf-8">
@@ -68,22 +54,28 @@
   <link href="https://fonts.googleapis.com/css2?family=Style+Script&display=swap" rel="stylesheet">
   <nav class=barra>
     <div>
-      
-      <a href="./estetica/">Estética</a>
-      <a href="./pediatria/">Pediatria</a>
-      <a href="./nutrologia/">Nutrologia</a>
+      <div>
+        <a href="./index.html">
+          <img id=logotop src="./pix/logos/LOGOTEXTO.png"></img>
+        </a>
+      </div>
+      <div>
+        <a href="./estetica/">ESTÉTICA</a>
+        <a href="./pediatria/">PEDIATRIA</a>
+        <a href="./nutrologia/">NUTROLOGIA</a>
+      </div>
     </div>
-    <a href="./cv/">Curriculum</a>
+    <Br>
+    
     
   </nav>
 </head>
 
 <body>
-
   
   <a href= /><img class=me src=./me.jpg>
   <figcaption>
-    <span class=metxt>Dra. Vera Meister</span>
+    <span id=metxt>Dra. Vera Meister</span>
   </figcaption></img>
   </a>
   
@@ -100,16 +92,15 @@
 <!-- <span class=metxt>Dra. Vera Meister</span> -->
 <br>
 <script>
-
   document.addEventListener("DOMContentLoaded", function () {
     let typedout = "";
-    const texto = "Esta vai ser a frase, vamos ver se fica boa! Inclui pausas maiores em pontos, vírgulas e outros... massa!";
+    const texto = "Dra Vera Meister é médica pediatra intensivista e nutróloga de formação, experiente em todos os procedimentos estéticos disponíveis no mercado, estudiosa da trend <i> wellness</i> e com diversos treinamentos realizados ao longo das mais de duas décadas de experiência.<br>";
     const comprimento = texto.length;
     let currentDelay = 0;
 
     function updateText(char) {
       typedout += char;
-      document.getElementById("out").innerText = typedout;
+      document.getElementById("out").innerHTML = typedout;
     }
 
     for (let i = 0; i < comprimento; i++) {
@@ -123,7 +114,7 @@
 </script>
 
 <div id="divFrase">
-  <span id="out"></span>
+  <p><span id="out"></p></span>
   <div id="autor"></div>
   <br>
 </div>
@@ -132,7 +123,13 @@
   .divFrase {
     max-width: 50vw;
   }
+
+  #out {
+    font-size: 130%;
+  }
 </style>
+<br>
+<!-- Conheça meu trabalho nesta página ou me encontre nas redes sociais! --> 
 <br>
 <br>
 <br>
@@ -146,6 +143,35 @@
     
     
     
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <hr>
+    <div id=notas>
+      <div>
+        <p><span style="color: white">Dra. Vera Meister</span> é médica pediatra intensivista há mais de 20
+          anos.<br>Atua na medicina integrativa desde que se especializou em nutrologia médica e tem treinamento e
+          formação para realizar a maioria dos procedimentos estéticos existentes no mercado.<br>Seu currículo completo
+          pode ser acesso <a href=./cv />aqui</a>.</p>
+      </div>
+      <div>
+        <p><span style="color: white">Aviso:</span><br>Todo o conteúdo deste <i>website</i> tem caráter informacional ou
+          comercial e são protegidos por
+          direitos autorais da proprietária.</p>
+      </div>
+      <div>
+        <p><span style="color: white">Contato</span>: meister.med@me.com<br> <span style="color: white">Endereço</span>:
+          SHLN Bloco G Lote 09 - Ed.Biosphere Health Center Torre A, Salas
+          203 e 205 - Asa Norte, Brasília - DF, 70770-560<br> <span style="color: white">Webmaster</span>:
+          contato@jefferson.med.br<br>
+        <p>
+      </div>
+    </div>
     
     <script>
       function retornaTopo() {
@@ -156,7 +182,7 @@
   <footer>
     <hr>
     <br>
-    <a href="https://www.jeffersontorres.com.br">Desenvolvido por Jefferson T. - @fatiservae - 2024 </a>
+    <a href="https://www.jeffersontorres.com.br">Desenvolvido por Jefferson T. - @fatiservae - 2025 </a>
     <br>
     <br>
     <br>
