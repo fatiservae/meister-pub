@@ -4,6 +4,7 @@
 
 :root {
   --ouro: #e0bfa6;
+  --ouro: #f7f7f9;
   /*
   */
   --stdTransition: background-color 0.2s ease;
@@ -15,8 +16,8 @@
   --borderRadius: 8px;
   --stdBorder: 1px solid var(--fontColor);
   color: var(--fontColor);
-  font-family: 'Fira sans';
-  font-weight: 500;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
   font-size: 1.2rem;
   background-color: var(--backgroundColor);
 }
@@ -30,7 +31,7 @@
 :root {
   background: var(--gradiente);
   --strongColor: black;
-  --gradiente: linear-gradient(to bottom, black 0%, black 30%, black 50%,  #2f1210 100%);
+  --gradiente: linear-gradient(to bottom, black 0%, black 30%, #2f1210 90%,  #2f1210 100%);
   /* --gradiente: radial-gradient(ellipse at 50% 20%, */
       /* black 0, */
       /* transparent 55%), */
@@ -285,7 +286,7 @@ span#frase {
 .me {
   border: 6px solid var(--ouro);
   border-radius: 100%;
-  max-height: 30vh;
+  max-height: 25vh;
 }
 
 #notas{
